@@ -1,0 +1,1 @@
+<h1 class="text-rose-600 text-6xl">Initial</h1>
