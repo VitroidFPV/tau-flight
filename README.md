@@ -1,6 +1,6 @@
 # TauFlight configurator
 
-𝝉 (Tau) - [...] Used to denote time in physical scinece
+𝝉 (Tau) - [...] Used to denote time in physical science
 
 ## What is this?
 
