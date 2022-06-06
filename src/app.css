@@ -43,6 +43,12 @@
     white-space: nowrap;
     border-width: 0;
   }
-
-  
+  .dropdown-active {
+    @apply bg-yellow-400/50 first:rounded-t-none px-4 rounded-2xl h-8 duration-300 flex items-center
+  }
+  .dropdown {
+    @apply items-center flex h-8 px-4 duration-300
+  }
+  .props-in {@apply bg-[url('/src/uploads/props_in_512.png')]}
+  .props-out {@apply bg-[url('/src/uploads/props_out_512.png')]}
 }
